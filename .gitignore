@@ -1,0 +1,24 @@
+# Python artefaktları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# Notebook ve geçici dosyalar
+.ipynb_checkpoints/
+.pytest_cache/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
